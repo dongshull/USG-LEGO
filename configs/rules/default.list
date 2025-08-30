@@ -1,0 +1,4 @@
+[Rule]
+DOMAIN-SUFFIX,google.com,PROXY
+DOMAIN-SUFFIX,facebook.com,REJECT
+FINAL,DIRECT
